@@ -9,6 +9,9 @@
 
 This example demonstrates how to use the [Excel Export API](https://docs.devexpress.com/OfficeFileAPI/114031/excel-export-library) to generate the "Sales Report" document shown in the image below.
 
+> [!Important]  
+> The Universal Subscription or an additional Office File API Subscription is required to use this example in production code. For pricing information, please refer to the [DevExpress Subscription](https://www.devexpress.com/Subscriptions/) page. 
+
 ![image](./media/a931e138-0b84-11e5-80bf-00155d62480c.png)
 
 ## Implementation Details
